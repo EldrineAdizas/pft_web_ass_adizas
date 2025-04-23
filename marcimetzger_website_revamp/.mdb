@@ -1,0 +1,10 @@
+{
+  "packageManager": "npm",
+  "projectName": "mdb5-free-standard",
+  "hash": "ce685d89",
+  "meta": {
+    "starter": "mdb5-free-standard",
+    "type": "frontend"
+  },
+  "domain": "eldrine_adizas-marcimetzger_website_revamp.mdbgo.io"
+}
